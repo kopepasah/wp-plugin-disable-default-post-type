@@ -9,7 +9,7 @@
  * Plugin Name:       Disable Default Post Type
  * Plugin URI:        https://github.com/kopepasah/wp-plugin-disable-default-post-type
  * Description:       Disable the default (Posts) post type.
- * Version:           0.1.0
+ * Version:           0.2.0
  * Requires PHP:      5.3
  * Requires at least: 4.4
  * Author:            Justin Kopepasah
